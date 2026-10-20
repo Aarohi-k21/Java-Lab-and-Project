@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Java Lab Experiments and ShopSphere Project
 
 ## Overview
@@ -43,3 +44,7 @@ Open each experiment or project in the appropriate IDE and follow its configurat
 
 ## Purpose
 Academic submission of Java lab experiments and a Java-based project.
+=======
+# Java-Lab-and-Project
+Java Lab Experiments and ShopSphere Project
+>>>>>>> f8c1528c4caed622a39733c191bd6ad44ae6193c
